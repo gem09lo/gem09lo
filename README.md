@@ -2,7 +2,7 @@
 
 I'm a Junior Data & Software Engineer passionate about turning raw data into actionable insights. Trained at Sigma Labs XYZ, I build end-to-end data pipelines and analytical tools using Python, SQL, and AWS. I enjoy working across the data lifecycle, from ingestion and cleaning to visualisation and stakeholder reporting, using tools like Tableau and Streamlit to solve real-world problems and support data-driven decision-making.
 
-## Key Projects
+## 🎯 Key Projects
 
 ### 🏛 Liverpool Museum Visitor Feedback Pipeline
 **Goal**: Improve visitor engagement and operational efficiency at a natural history museum by analysing real-time and historical survey data.
