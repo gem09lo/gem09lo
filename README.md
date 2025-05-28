@@ -1,6 +1,6 @@
 ## Hey there, I'm Gem Lo 👋
 
-I'm a Junior Data & Software Engineer passionate about turning raw data into actionable insights. Trained at Sigma Labs XYZ, I build end-to-end data pipelines and analytical tools using Python, SQL, and AWS. I enjoy working across the data lifecycle, from ingestion and cleaning to visualisation and stakeholder reporting, using tools like Tableau and Streamlit to solve real-world problems and support data-driven decision-making.
+I'm a data-driven individual who is passionate about turning raw data into actionable insights. Trained at Sigma Labs XYZ, I build end-to-end data pipelines and analytical tools using Python, SQL, and AWS. I enjoy working across the data lifecycle, from processing and analysis to visualisation and stakeholder reporting, using tools like Tableau and Streamlit to solve real-world problems and support data-driven decision-making.
 
 ## 🎯 Key Projects
 
