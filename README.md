@@ -16,7 +16,7 @@ I'm a data-driven individual who is passionate about turning raw data into actio
 
 [🔗 View Repository](https://github.com/gem09lo/Liverpool-Museum-of-Natural-History-LMNH-Project) 
 
-
+---
 
 ### 🍔 Tasty Truck Treats – Automated Sales Analytics
 **Goal**: Help a mobile catering business use data to optimise menus, routes, and marketing strategy.
@@ -30,7 +30,7 @@ I'm a data-driven individual who is passionate about turning raw data into actio
 
 [🔗 View Repository](https://github.com/gem09lo/T3-Trucks-Project) 
 
-
+---
 
 ### 🛍️ It’s On Sale – Price Tracking & Alert System
 **Role**: Project Manager 
@@ -46,3 +46,19 @@ I'm a data-driven individual who is passionate about turning raw data into actio
 **Key Tools**: Python, Streamlit, BeautifulSoup, Pandas, AWS SES, Terraform
 
 [🔗 View Repository](https://github.com/gem09lo/PriceSlashTrack) 
+
+---
+
+### 🧬 PubMed Articles – Institution Matching & Metadata Extraction (Machine Learning)
+**Goal**: Automate the extraction and matching of institutional affiliations from PubMed research articles to support pharmaceutical research.
+
+**Task**:
+- Built a multi-step ETL pipeline to extract XML data from S3, transform and clean it using spaCy and RapidFuzz, and match institutions to the GRID dataset.
+- Processed over 1 million PubMed articles with author metadata, keywords, and institutional affiliations.
+- Integrated NLP (spaCy) for named entity recognition (GPE and ORG) and applied fuzzy matching (RapidFuzz) to identify institutions.
+- Dockerised the pipeline and deployed it via AWS ECS Fargate, with automated task triggering using CloudWatch and EventBridge.
+- Managed infrastructure using Terraform.
+
+**Key Tools**: Python (Pandas, spaCy, RapidFuzz), XML, AWS (S3, ECS Fargate, EventBridge, SES), Docker, Terraform
+
+[🔗 View Repository](https://github.com/gem09lo/PubMed-Articles) 
