@@ -62,3 +62,12 @@ I'm a data-driven individual who is passionate about turning raw data into actio
 **Key Tools**: Python (Pandas, spaCy, RapidFuzz), XML, AWS (S3, ECS Fargate, EventBridge, SES), Docker, Terraform
 
 [🔗 View Repository](https://github.com/gem09lo/PubMed-Articles) 
+
+
+--- 
+--- 
+
+## 📚 Additional Projects
+
+### Software Development Fundamentals
+- **[🃏 Blackjack Game - Procedural](https://github.com/gem09lo/Blackjack-Game)** - CLI game demonstrating clean code principles, TDD with pytest, and Python best practices (9.5/10 Pylint score)
