@@ -72,3 +72,4 @@ I'm a data-driven individual who is passionate about turning raw data into actio
 ### Software Development Fundamentals
 - **[🃏 Blackjack Game - Procedural](https://github.com/gem09lo/Blackjack-Game)** - CLI game demonstrating clean code principles, TDD with pytest, and Python best practices (9.5/10 Pylint score)
 - **[🃏 Blackjack Game - OOP Refactor](https://github.com/gem09lo/Blackjack-Game-OOP-)** - Extension of the procedural Blackjack game, rewritten using object-oriented principles. Focuses on modular class design (Card, Deck, Hand), unit testing, and clean architecture for future gameplay expansion.
+- **[🎥 Blockbuster Rental System - OOP](https://github.com/gem09lo/BlockBuster-Rental-System-OOP)** - Simulates a video rental store using object-oriented design (Video, Customer, Rental, VideoStore). Demonstrates clean code, TDD with pytest, and real-world logic (due dates, fines, age validation).
